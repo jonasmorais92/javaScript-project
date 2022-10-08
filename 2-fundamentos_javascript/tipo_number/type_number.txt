@@ -1,0 +1,5 @@
+O tipo número tem como valor qualquer valor numérico
+Ex: 10, 10.25, NaN (not a number), Infinyt, -Infinyt.
+
+Cuidado ao realizar cálculos com numeros de ponto flutuante, o 
+valor obtido é aproximado e náo exato.
