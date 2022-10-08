@@ -1,0 +1,46 @@
+*Hoisting: Todas as variávei declaradas no corpo do código, são automaticamente
+ jogadas para o cabeçaho (parte inicial), onde são devidamente declaradas.
+
+###############################################
+
+*Tipos de dados no JavaScript
+
+Number
+Boolean
+String
+Object
+Undefined
+Function
+
+###############################################
+
+*Operadores aritméticos
+
++ somar
+- subtrair
+* multiplicar
+/ dividir
+% resto de divisão
+
+###############################################
+
+*Operadores de comparação
+
+> maior
+< menor
+>= maior ou igual
+<= menor ou igual
+== igual à -------------- obs: O símbolo (==) compara sem preocupar com o tipo de variável. Sendo assim, 10 == '10' é verdadeiro
+=== igual à ------------- obs: O símbolo (===) considera também o tipo da variável. Sendo assim 10 === '10' é falso, porque o 10 é number e o '10' é string (aconselhavel)
+!= diferente de --------- obs: O símbolo (!=) compara sem preocupar com o tipo de variável. Sendo assim, 10 != '10' é falso.
+!== diferente de -------- obs: O símbolo (!=) considera também o tipo da variável. Sendo assim 10 !== '10' é falso, porque o 10 é number e o '10' é string (aconselhavel)
+
+###############################################
+
+*Operadores lógicos
+
+&& e
+|| ou
+& comparação binária e   ex: 10 & 1 = 0
+| comparação binária ou  ex: 10 | 1 = 11
+

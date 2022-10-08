@@ -1,0 +1,5 @@
+A tipagem dinâmica diz respeito a flexibilidade de declaração de variáveis,
+ela não precisa ser declarada como int ou string entre outras, apenas como var.
+Durante a execussão do código ela muda de tipo dependendo do tipo de dado
+atribuído à ela naquele momento, se for numero ela entende como int e se for
+caractéres ela passa a ser string.
